@@ -1,0 +1,8 @@
+{
+  "name": "b1x",
+  "description": "b1x-shell",
+  "uuid": "automation@outlaw.io",
+  "shell-version": [
+    "40"
+  ]
+}
