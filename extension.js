@@ -33,10 +33,10 @@ const PopupMenu = imports.ui.popupMenu;
 const Indicator = GObject.registerClass(
 class Indicator extends PanelMenu.Button {
     _init() {
-        super._init(0.0, _('My Shiny Indicator'));
+        super._init(0.0, _('b1x-alpha'));
 
         this.add_child(new St.Icon({
-            icon_name: 'face-smile-symbolic',
+            icon_name: 'accessories-alarm-symbolic',
             style_class: 'system-status-icon',
         }));
 
