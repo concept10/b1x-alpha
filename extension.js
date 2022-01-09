@@ -1,4 +1,4 @@
-/* extension.js
+/* extension.js - The main extension object - This file is part of the b1xa project. 
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

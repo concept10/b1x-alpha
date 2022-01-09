@@ -1,4 +1,2 @@
-# b1x-alpha
-shell extenstion (template) 
+# b1xa
 
-TODO: Minimum Valid Target
